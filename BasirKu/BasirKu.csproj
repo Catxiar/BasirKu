@@ -15,7 +15,6 @@
   <ItemGroup>
     <Folder Include="Controler\" />
     <Folder Include="Model\" />
-    <Folder Include="sigma\" />
     <Folder Include="View\" />
   </ItemGroup>
 
